@@ -1,66 +1,79 @@
 <div align="center">
 
-<img src="media/icon.png" width="112" alt="bunbun" />
+<img src="media/icon.png" width="96" alt="" />
 
 # bunbun
 
-**Ta musique, sur ton PC et ton téléphone.**
+**Ta musique, tes amis, un lecteur qui a du caractère.**
 
-[![Windows](https://img.shields.io/badge/Windows-Télécharger-ffb3c6?style=for-the-badge&logo=windows11&logoColor=120c18&labelColor=ff758f)](https://github.com/enwrk/bunbun-releases/releases/latest/download/bunbun-Setup.exe)
-&nbsp;
-[![Android](https://img.shields.io/badge/Android-Télécharger-ffb3c6?style=for-the-badge&logo=android&logoColor=120c18&labelColor=ff758f)](https://github.com/enwrk/bunbun-releases/releases/latest/download/bunbun.apk)
-
-[![Version](https://img.shields.io/github/v/release/enwrk/bunbun-releases?style=flat-square&label=version&color=ff758f&labelColor=1e1226)](https://github.com/enwrk/bunbun-releases/releases/latest)
-[![Site](https://img.shields.io/badge/site-bunbun--puce.vercel.app-ffb3c6?style=flat-square&labelColor=1e1226)](https://bunbun-puce.vercel.app)
-[![Discord](https://img.shields.io/badge/Discord-rejoindre-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=1e1226)](https://discord.gg/eTkQPXm9rt)
+Sur Windows, Android et [dans ton navigateur](https://bunbun-puce.vercel.app).
 
 <br />
 
-<img src="media/preview.gif" width="800" alt="bunbun en action : mini-lecteur, paroles, statut Discord, widget Android" />
+[![Télécharger pour Windows](https://img.shields.io/badge/Windows-Télécharger-ffb3c6?style=for-the-badge&logo=windows11&logoColor=2a1420&labelColor=ffd0d6)](https://github.com/enwrk/bunbun-releases/releases/latest/download/bunbun-Setup.exe)
+&nbsp;
+[![Télécharger pour Android](https://img.shields.io/badge/Android-Télécharger-ffb3c6?style=for-the-badge&logo=android&logoColor=2a1420&labelColor=ffd0d6)](https://github.com/enwrk/bunbun-releases/releases/latest/download/bunbun.apk)
+
+[Ouvrir le site](https://bunbun-puce.vercel.app) · [Rejoindre le Discord](https://discord.gg/eTkQPXm9rt) · [Toutes les versions](https://github.com/enwrk/bunbun-releases/releases)
+
+<br />
+
+<img src="media/app.png" width="860" alt="bunbun sur Windows : la barre de recherche en haut, la bibliothèque à gauche, l'accueil au centre" />
 
 </div>
 
 <br />
 
-## 💻 Windows
+## Écouter
 
-| | |
-|---|---|
-| 🎧 **Jamais coupé** | La musique continue fenêtre réduite, cachée ou derrière un jeu. |
-| 📌 **Mini-lecteur toujours devant** | Un petit lecteur flottant au-dessus de tout le reste. |
-| 🖼️ **Pochette seule** | Juste la jaquette, à poser dans un coin de l'écran. |
-| 🎤 **Pochette + paroles** | Les paroles synchronisées défilent en direct. `Ctrl+Alt+M` passe d'une vue à l'autre. |
-| 💬 **Statut Discord** | « Écoute bunbun » avec la pochette et le temps restant, sur ton compte. |
-| 🐰 **Zone de notification** | Lecture, suivant, précédent sans ouvrir la fenêtre, lancement au démarrage. |
+- **Tes playlists partout.** Connecte-toi avec Discord : tes playlists et tes titres likés te suivent sur tous tes appareils. Tu peux aussi importer celles que tu as déjà.
+- **Des paroles synchronisées**, en plein écran si tu veux.
+- **Le vinyle.** Attrape le disque et le son suit ta main, lentement, vite ou à l'envers.
+- **Le son à ton goût.** Égaliseur, réverbération, vitesse, tonalité, et l'effet « son d'à côté » qui fait sonner la musique depuis la pièce voisine.
+- **Tes stats**, et un récap du mois en image à partager.
 
-## 📱 Android
+## Avec tes amis
 
-| | |
-|---|---|
-| 🌙 **Écran éteint** | La musique continue, même dans une autre appli. |
-| 🔔 **Notification** | Pochette, titre, temps, lecture/pause, suivant, précédent, aussi sur l'écran verrouillé. |
-| 🧩 **Widget 4x1** | Pochette, titre, artiste, lecture/pause et suivant sur l'écran d'accueil, même hors ligne. |
-| 🎧 **Écouteurs** | Les boutons des écouteurs Bluetooth marchent. |
-
-## ⬇️ Installer
-
-**Windows** — télécharge [`bunbun-Setup.exe`](https://github.com/enwrk/bunbun-releases/releases/latest/download/bunbun-Setup.exe) et lance-le.
-Si Windows affiche *« Windows a protégé votre ordinateur »* : **Informations complémentaires** → **Exécuter quand même**.
-
-**Android** — télécharge [`bunbun.apk`](https://github.com/enwrk/bunbun-releases/releases/latest/download/bunbun.apk) sur ton téléphone, ouvre-le, puis autorise *« installer des applis inconnues »* quand Android le demande.
-
-Ensuite, connecte-toi avec Discord comme sur le site : tes playlists et tes titres likés sont déjà là.
-
-## ✨ Mises à jour
-
-- **Le site** à l'intérieur des applis est toujours la dernière version.
-- **Windows** se met à jour tout seul au lancement, quand aucune musique ne joue.
-- **Android** te propose la nouvelle version au lancement (Android demande toujours une confirmation).
+- **Écouter ensemble**, en direct, en vous proposant des sons.
+- **Des playlists collab**, à plusieurs.
+- **Des commentaires à la seconde** : laisse un mot à un moment d'un son, tes amis le voient passer au bon endroit.
+- **Des cassettes en 3D.** Offre une playlist avec ton étiquette écrite à la main. À la moitié, il faut la retourner pour écouter la face B.
+- **Des capsules** : scelle une playlist et un message, à ouvrir dans un mois ou dans un an.
 
 <br />
 
 <div align="center">
+<img src="media/welcome.png" width="680" alt="L'écran d'accueil de bunbun" />
+</div>
 
-<sub>Fait avec 🩷 par bunbun · <a href="https://bunbun-puce.vercel.app">bunbun-puce.vercel.app</a></sub>
+<br />
 
+## Ce que les applis ajoutent
+
+| Windows | Android |
+|---|---|
+| La musique continue fenêtre réduite ou derrière un jeu | La musique continue écran éteint |
+| Écoute hors ligne des sons déjà écoutés | Notification et écran verrouillé |
+| Mini-lecteur toujours devant, pochette seule ou avec paroles | Widget sur l'écran d'accueil |
+| Statut Discord avec la pochette et le temps restant | Boutons des écouteurs Bluetooth |
+| Lecture, suivant et précédent depuis le lapin près de l'horloge | Réveil en musique |
+
+<div align="center">
+<br />
+<img src="media/preview.gif" width="680" alt="Le mini-lecteur, les paroles, le statut Discord et le widget Android" />
+<br />
+</div>
+
+## Installer
+
+**Windows** : télécharge [`bunbun-Setup.exe`](https://github.com/enwrk/bunbun-releases/releases/latest/download/bunbun-Setup.exe) et lance-le. Si Windows affiche « Windows a protégé votre ordinateur », choisis **Informations complémentaires**, puis **Exécuter quand même**.
+
+**Android** : télécharge [`bunbun.apk`](https://github.com/enwrk/bunbun-releases/releases/latest/download/bunbun.apk) sur ton téléphone, ouvre-le, puis autorise l'installation quand Android le demande.
+
+Le site et les applis se mettent à jour d'eux-mêmes. Android te demande juste de confirmer.
+
+<br />
+
+<div align="center">
+<sub>bunbun · <a href="https://bunbun-puce.vercel.app">bunbun-puce.vercel.app</a></sub>
 </div>
